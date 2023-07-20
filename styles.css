@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.player_one{
+	
+			background-color : white;
+			border-radius:4px;
+}
+.player_two{
+	background-color:rgb(255, 255, 255);
+	
+	text-align:center;
+}
+h1{
+	text-align:center;
+	
+}
+h2{
+	text-align:center;
+	
+}
